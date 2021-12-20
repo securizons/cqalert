@@ -1,2 +1,3 @@
 # cqalert
-Allow people to inform about safety purposes in their area
+Allow people to inform about safety purposes in their area. 
+ Une application pour faciliter les dénonciations et la participation des populations au renseignement. Il s’agira ici d’une application mobile gratuite téléchargeable par le public pour saisir les dénonciations ou les indications qu’un citoyen  souhaite communiquer aux  Forces de Défense et de Sécurité (FDS) en rapport avec des situations de nature à compromettre la sécurité nationale. Il sera prévu une partie « Back End » réservée aux  Forces de Défense et de Sécurité (FDS) comme centre de réception et de traitement des alertes, dénonciations et signalements des populations de faits ou situations susceptibles de compromettre la sécurité du pays.
